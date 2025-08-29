@@ -37,7 +37,9 @@ pip install pandas mysql-connector-python matplotlib seaborn
 ---
 
 ## 📂 Dataset  
-- **dataset link- "https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv".
+
+- **Dataset Link**: [Kaggle - Target Dataset](https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv)  
+
 The dataset consists of multiple CSV files related to e-commerce transactions:  
 - **customers.csv** → Customer details  
 - **orders.csv** → Order information with timestamps  
@@ -46,6 +48,7 @@ The dataset consists of multiple CSV files related to e-commerce transactions:
 - **geolocation.csv** → Customer locations  
 - **payments.csv** → Payment details  
 - **order_items.csv** → Items purchased per order  
+
 
 ---
 
